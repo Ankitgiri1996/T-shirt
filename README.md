@@ -1,4 +1,5 @@
 # T-shirt #
-<Red Colour> <Like>
+<Red Colour> <Dislike>
 <Yello Colour> <Dislike>
 <Blue Colur> <Like>
+<Hactoberfest T-shirt> <Like>
